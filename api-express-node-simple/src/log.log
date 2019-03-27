@@ -1,0 +1,6 @@
+[0mGET /inicio [33m404 [0m5.666 ms - 145[0m
+[0mGET /favicon.ico [33m404 [0m0.875 ms - 150[0m
+[0mGET /api-cognos/alumnos [32m200 [0m4.636 ms - 113[0m
+[0mGET /api-cognos/alumnos [36m304 [0m1.561 ms - -[0m
+[0mGET /api-cognos/alumnos [36m304 [0m1.049 ms - -[0m
+[0mGET /api-cognos/alumnos [36m304 [0m0.820 ms - -[0m

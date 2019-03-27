@@ -1,0 +1,3 @@
+https://developer.mozilla.org/es/docs/Learn/Javascript/Objects/JSON
+
+https://jsoneditoronline.org/

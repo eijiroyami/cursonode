@@ -1,0 +1,22 @@
+{
+    "Nombre": "Efrain",
+    "Apellido": "Quisberth",
+    "CI": 7011734,
+    "Curso": "NODEJS",
+    "Trabajos": [{
+      "Institucion": "MITRYLS",
+      "Fecha Inicio": "05/01/15",
+      "Fecha Fin": "17/12/15"
+    },
+    {
+      "Institucion": "SUPORTIC",
+      "Fecha Inicio": "07/01/16",
+      "Fecha Fin": null
+    },
+    {
+      "Institucion": "MITRYLS",
+      "Fecha Inicio": "01/01/17",
+      "Fecha Fin": "12/12/17" 
+    }]
+  }
+  
