@@ -1,0 +1,26 @@
+[
+    {
+            "id": 1,
+        "nombres":"Ana",
+        "apellidos":"Gomez",
+        "curso": "Angular"
+    },
+    {
+        "id": 2,
+        "nombres":"Jorge",
+        "apellidos":"Calle",
+        "curso":"Node"
+    },
+    {
+        "id": 3,
+        "nombres": "German",
+        "apellidos":"Sabala",
+        "curso": "React"
+    },
+    {
+        "id": 4,
+        "nombres": "Efrain",
+        "apellidos":"Quisberth",
+        "curso": "NodeJS"
+    }
+]

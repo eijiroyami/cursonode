@@ -1,19 +1,17 @@
 {
-  "name": "bootstrap-lab",
+  "name": "registro-express-ejs-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "live-server public --port=3000"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "hbs": "^4.0.3",
-    "live-server": "^1.2.1",
-    "path": "^0.12.7"
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
   }
 }
